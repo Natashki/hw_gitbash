@@ -1,2 +1,4 @@
 # hw_gitbash
-Homework termil git bash
+Homework terminal git bash - Nefedova_HW_1_terminal.txt
+
+
