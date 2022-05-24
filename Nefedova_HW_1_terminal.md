@@ -53,12 +53,12 @@ GitBash commands
     времени (команда grep) изучите как   
     она
 > grep -R kakoy   (поиск по тексту)\
-> tail -f ff_2/text_1.txt (содержимое файла в реальном времени) \
+> tail -f ff_2/text_1.txt (содержимое файла в реальном времени) 
 
 17) вывести несколько первых строк из     
     текстового файла                    
 > cd ff_2 \
-> cat text_1.txt | head -4 \
+> cat text_1.txt | head -4 
 
 18) вывести несколько последних строк    
     из текстового файла
@@ -82,7 +82,7 @@ http://162.55.220.72:5005/terminal-hw-request
 автоматически пункты 3, 4, 5, 6, 7, 8, 13      
 > touch script_1.sh \
 > vim script_1.sh \
-> i \
+> i 
 
 ввести внутри скрипта:
 > mkdir lesson_1 \
@@ -92,7 +92,7 @@ http://162.55.220.72:5005/terminal-hw-request
 > touch text_{1,2,3}.txt j_file_{1,2}.json \
 > mkdir ff_{1,2,3} \
 > ls -la \
-> mv text_1.txt text_2.txt ff_2/  \                                                     	
+> mv text_1.txt text_2.txt ff_2/                                                     	
 
 Выйти из редактора vim с сохранением
 > escape -> :wq -> enter
